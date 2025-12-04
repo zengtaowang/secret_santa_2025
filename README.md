@@ -6,7 +6,7 @@
 
 ## 🌐 在线使用
 
-直接访问：**https://zengtaowang.github.io/secret_santa/**
+直接访问：**https://zengtaowang.github.io/secret_santa_2025/**
 
 ## ✨ 特性
 
